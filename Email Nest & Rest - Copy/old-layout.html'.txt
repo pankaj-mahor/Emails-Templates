@@ -1,0 +1,231 @@
+     <tr
+                  width="100%"
+                  style="border-spacing: 20px; vertical-align: middle"
+                >
+                  <td
+                    width="46%"
+                    style="
+                      text-align: center;
+                      border-radius: 10px;
+                      padding: 15px 8px;
+                      margin: 0 3% 0 0;
+                    "
+                  >
+                    <h1
+                      class="text-center"
+                      style="
+                        font-family: 'Inter', sans-serif;
+                        color: rgb(27, 30, 85);
+                        line-height: 18px;
+                        text-align: center;
+                        font-weight: 600;
+                        font-style: italic;
+                      "
+                    >
+                      What is Nesting?
+                    </h1>
+                    <p
+                      class="text-center"
+                      style="
+                        font-family: 'Inter', sans-serif;
+                        font-size: 15px;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: center;
+                        font-weight: 500;
+                      "
+                    >
+                      Nesting allows you to host a <b>Nitro ION Miner</b> to
+                      create a network access point for IOT devices and
+                      <b>earn effortlessly.</b>
+                    </p>
+                  </td>
+                  <td
+                    width="46%"
+                    style="
+                      text-align: left;
+                      border-radius: 10px;
+                      margin: 0 3% 0 0;
+                    "
+                  >
+                    <img
+                      src="http://reporting.lorvensofttech.com/nestrest/images/whatNesting.png"
+                      alt=""
+                      width="100%"
+                    />
+                  </td>
+                </tr>
+                <!--  Second row -->
+                <tr
+                  width="100%"
+                  style="border-spacing: 20px; vertical-align: middle"
+                >
+                <td
+                    width="48%"
+                    style="
+                      text-align: left;
+                      border-radius: 10px;
+                      margin: 0 3% 0 0;
+                    "
+                  >
+                    <img
+                      src="http://reporting.lorvensofttech.com/nestrest/images/whyNesting.png"
+                      alt=""
+                      width="100%"
+                    />
+                  </td>
+
+                  <td
+                    width="48%"
+                    style="
+                      text-align: center;
+                      border-radius: 10px;
+                      padding: 15px 8px;
+                      margin: 0 3% 0 0;
+                    "
+                  >
+                    <h1 class="text-center" style="
+                        font-family: 'Inter', sans-serif;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: center;
+                        font-weight: 600;
+                        font-style: italic;
+                      ">Why Nesting?</h1>
+                      <p class="mb-0"  style="
+                        font-family: 'Inter', sans-serif;
+                        font-size: 13px;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: left;
+                        font-weight: 500;
+                        margin : 0  ;
+                      "><img style="display: inline;width:17px;vertical-align: text-bottom;" class="vltb" src="http://reporting.lorvensofttech.com/nestrest/images/smallTick.png" alt=""> Less Network <b>Congestion</b></p>
+                      <p class="mb-0" style="
+                        font-family: 'Inter', sans-serif;
+                        font-size: 13px;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: left;
+                        font-weight: 500;
+                        margin : 0  ;"><img style="display: inline;width:17px;vertical-align: text-bottom;" class="vltb" src="http://reporting.lorvensofttech.com/nestrest/images/smallTick.png" alt=""> Resources optimization</p>
+                      <p class="mb-0" style="
+                        font-family: 'Inter', sans-serif;
+                        font-size: 13px;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: left;
+                        font-weight: 500;
+                        margin : 0  ;"><img style="display: inline;width:17px;vertical-align: text-bottom;" class="vltb" src="http://reporting.lorvensofttech.com/nestrest/images/smallTick.png" alt=""> <b>High Rewards</b></p>
+                      <p class="mb-0" style="
+                        font-family: 'Inter', sans-serif;
+                        font-size: 13px;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: left;
+                        font-weight: 500;
+                        margin : 0  ;"><img style="display: inline;width:17px;vertical-align: text-bottom;" class="vltb" src="http://reporting.lorvensofttech.com/nestrest/images/smallTick.png" alt=""> Hussle free</p>
+                      </p>
+                  </td>
+                  
+                </tr>
+                <!-- Third row -->
+                <tr
+                  width="600"
+                  style="border-spacing: 20px; vertical-align: middle"
+                >
+                  <td
+                    width="290"
+                    style="
+                      text-align: center;
+                      border-radius: 10px;
+                      padding: 15px 8px;
+                      margin: 0 3% 0 0;
+                    "
+                  >
+                  <h1 class="text-center" style="
+                        font-family: 'Inter', sans-serif;
+                        color: rgb(27, 30, 85);
+                        line-height: 18px;
+                        text-align: center;
+                        font-weight: 600;
+                        font-style: italic;
+                      "> Exclusivity</h1>
+                        <p class="text-center" style="
+                        font-family: 'Inter', sans-serif;
+                        font-size: 15px;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: center;
+                        font-weight: 500;
+                      ">
+                          Be the only active Nesters in  <b>One KM*</b>
+                        </p>
+                   
+                  </td>
+                  <td
+                    width="290"
+                    style="
+                      text-align: left;
+                      border-radius: 10px;
+                      margin: 0 3% 0 0;
+                    "
+                  >
+                    <img
+                      src="http://reporting.lorvensofttech.com/nestrest/images/exclusive.png"
+                      alt=""
+                      width="100%"
+                    />
+                  </td>
+                </tr>
+                <!--  Fourth row -->
+                <tr
+                  width="100%"
+                  style="border-spacing: 20px; vertical-align: middle"
+                >
+                <td
+                    width="454%"
+                    style="
+                      text-align: left;
+                      border-radius: 10px;
+                      margin: 0 3% 0 0;
+                    "
+                  >
+                    <img
+                      src="http://reporting.lorvensofttech.com/nestrest/images/rewards.png"
+                      alt=""
+                      width="100%"
+                    />
+                  </td>
+
+                  <td
+                    width="48%"
+                    style="
+                      text-align: center;
+                      border-radius: 10px;
+                      padding: 15px 8px;
+                      margin: 0 3% 0 0;
+                    "
+                  >
+                    <h1 class="text-center" style="
+                        font-family: 'Inter', sans-serif;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: center;
+                        font-weight: 600;
+                        font-style: italic;
+                      ">REWARDS</h1>
+                        <p class="text-center" style="
+                        font-family: 'Inter', sans-serif;
+                        font-size: 15px;
+                        color: rgb(27, 30, 85);
+                        line-height: 20px;
+                        text-align: center;
+                        font-weight: 500;
+                      ">
+                          <b>182* Ncash</b> per epoch  for <b>first 1000 nesters</b>
+                        </p>
+                    
+                  </td>
+                  
+                </tr>
